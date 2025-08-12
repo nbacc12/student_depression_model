@@ -4,5 +4,5 @@ Data analytics project about developing a predictive model to determine students
 ## Technology Stack
 
 - **Programming Language:**  Python
-- **Libraries:**  numpy, pandas, matplotlib, seaborn, statsmodels, sklearn, 
+- **Libraries:**  numpy, pandas, matplotlib, seaborn, statsmodels, sklearn 
 - **Applications:**  Jupyter Notebook
