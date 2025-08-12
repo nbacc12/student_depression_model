@@ -10,7 +10,7 @@ This was a group project completed in collaboration with 4 data analysts. The pr
 - Model validation
 - Deploying the model to make predictions
 
-A logistic regression model was selected as the machine learning model as it's highly applicable to scenarios with binary outcomes (i.e. whether a student is depressed or not).  
+The group selected a logistic regression model for this project as it's highly applicable to scenarios with binary outcomes (i.e. whether a student is depressed or not).  
 
 ## Technology Stack
 
