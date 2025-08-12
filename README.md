@@ -10,7 +10,7 @@ This was a group project completed in collaboration with 4 data analysts. The pr
 - Model validation
 - Deploying the model to make predictions
 
-The group selected a **logistic regression model** for this project as it's highly applicable to scenarios where probability outcomes are binary (i.e. whether a student is <ins>depressed or not<ins>).  
+The group selected a **logistic regression model** for this project as it's highly applicable to scenarios where probability outcomes are binary (i.e. whether a student is ***depressed or not***).  
 
 ## Technology Stack
 
