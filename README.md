@@ -1,7 +1,10 @@
 # Student Depression Predictive Model
-This data analytics project focuses on developing a machine learning model for predicting students who are at risk of experiencing depression. The model was constructed using the student depression dataset sourced from kaggle.com.  
 
-This was a group project completed in collaboration with 4 data analysts. The project consisted of the following activities:
+This data analytics project, completed in a group of 4 data analysts, focuses on developing a machine learning model to predict which students are at risk of experience depression.  
+
+The project was developed in a Jupyter Notebook using a student depression dataset sourced from kaggle.com.  The group chose a **logistic regression model** because it's effective in scenarios with a binary outcome - whether a student is ***depressed or not***.  
+
+The workflow of the project consisted of the following activities: 
 
 - Developing business & analytical objectives
 - Conducting exploratory data analysis (EDA)
@@ -9,8 +12,6 @@ This was a group project completed in collaboration with 4 data analysts. The pr
 - Constructing the machine learning model
 - Model validation
 - Deploying the model to make predictions
-
-The group selected a **logistic regression model** for this project as it's highly applicable to scenarios where probability outcomes are binary (i.e. whether a student is ***depressed or not***).  
 
 ## Technology Stack
 
