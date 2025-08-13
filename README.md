@@ -16,11 +16,11 @@ The workflow of the project consisted of the following activities:
 ## Technology Stack
 
 - **Programming Language:**  Python
-- **Libraries:**  Numpy, Pandas, Matplotlib, Seaborn, Statsmodels, Sklearn 
+- **Python Libraries:**  Numpy, Pandas, Matplotlib, Seaborn, Statsmodels, Sklearn 
 - **Applications:**  Jupyter Notebook, MS Excel
 
 ## Instructions
 
 1) Click on the following file within this repository:  `student_depression_project.ipynb`
 2) Github will automatically render the jupyter notebook file
-3) Review all the python code, output, data visualizations in the browser
+3) Review all the python code, output, and data visualizations in the browser
