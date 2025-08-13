@@ -20,3 +20,7 @@ The workflow of the project consisted of the following activities:
 - **Applications:**  Jupyter Notebook, MS Excel
 
 ## Instructions
+
+1) Click on the following file within this repository:  `student_depression_project.ipynb`
+2) Github will automatically render the jupyter notebook file
+3) Review all the python code, output, data visualizations in the browser
