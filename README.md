@@ -67,4 +67,3 @@ The logistic regression model for student depression performed exceptionally wel
 ### Next Steps
 
 Looking ahead, the team's recommendation for educational institutions is to use these insights to craft more targeted support programs, enhance early intervention strategies, and allocate mental health resources more effectively for students. This will ensure a comprehensive approach to supporting student well-being.
-
