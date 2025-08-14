@@ -1,10 +1,16 @@
 # Student Depression Predictive Model
 
-This data analytics project, completed in a group of 4 data analysts, focuses on developing a machine learning model to predict which students are at risk of experience depression.  
+## Executive Summary
 
-The project was developed in a Jupyter Notebook using a student depression dataset sourced from kaggle.com.  The group chose a **logistic regression model** because it's effective in scenarios with a binary outcome - whether a student is ***depressed or not***.  
+This data analystics project, completed in a team of 4, focuses on developing a machine learning model that predicts which students are at risk of experiencing depression.  
 
-The workflow of the project consisted of the following activities: 
+Using a student depression dataset sourced from kaggle.com, the team built and validated a **logistic regression model**.  This model was chosen because it's highly effective in scenarios where the outcome is binary.  In this case, a student being ***depressed or not depressed*** would be the possible outcomes.  
+
+The final model was found to be ***approximately 84% accurate*** in predicting a student is at risk of depression.  
+
+## Project Workflow
+
+The analytics workflow of the project was documented in the accompanying Jupyter notebook.  The project consisted of the following activities:
 
 - Developing business & analytical objectives
 - Conducting exploratory data analysis (EDA)
@@ -24,3 +30,5 @@ The workflow of the project consisted of the following activities:
 1) Click on the following file within this repository:  `student_depression_project.ipynb`
 2) Github will automatically render the jupyter notebook file
 3) Review the python code, outputs, and data visualizations in the browser
+
+
