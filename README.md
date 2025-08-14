@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This data analystics project, completed in a team of 4, focuses on developing a machine learning model that predicts which students are at risk of experiencing depression.  
+This data analytics project, completed in a team of 4, focuses on developing a machine learning model that predicts which students are at risk of experiencing depression.  
 
 Using a student depression dataset sourced from kaggle.com, the team built and validated a **logistic regression model**.  This model was chosen because it's highly effective in scenarios where the outcome is binary.  In this case, a student being ***depressed or not depressed*** would be the possible outcomes.  
 
