@@ -4,7 +4,7 @@
 
 This data analytics project, completed in a team of 4, focuses on developing a machine learning model that predicts which students are at risk of experiencing depression.  
 
-Using a student depression dataset sourced from [kaggle.com](kaggle.com), the team built and validated a **logistic regression model**.  This model was chosen because it's highly effective in scenarios where the outcome is binary.  In this case, a student being ***depressed or not depressed*** would be the possible outcomes.  
+Using a student depression dataset sourced from [kaggle.com](http://www.kaggle.com), the team built and validated a **logistic regression model**.  This model was chosen because it's highly effective in scenarios where the outcome is binary.  In this case, a student being ***depressed or not depressed*** would be the possible outcomes.  
 
 The final model was found to be ***approximately 84% accurate*** in predicting a student is at risk of depression.  
 
