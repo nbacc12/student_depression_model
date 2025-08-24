@@ -27,6 +27,8 @@ The analytics workflow of the project was documented in the accompanying Jupyter
 
 ## Jupyter Notebook
 
+_To view data cleansing, EDA, modelling, evaluation, and deployment:_
+
 1) Click on the following file within this repository:  `student_depression_project.ipynb`
 2) Github will automatically render the jupyter notebook file
 3) Review the python code, outputs, and data visualizations in the browser
