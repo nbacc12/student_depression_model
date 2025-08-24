@@ -31,6 +31,10 @@ The analytics workflow of the project was documented in the accompanying Jupyter
 2) Github will automatically render the jupyter notebook file
 3) Review the python code, outputs, and data visualizations in the browser
 
+## Project Report
+
+For a comprehensive overview of the objectives, analysis, predictions, and recommendations, please refer to the full Data Analysis Report.
+
 ## Key Project Points
 
 ### Main Objective
