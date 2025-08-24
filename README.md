@@ -33,7 +33,7 @@ The analytics workflow of the project was documented in the accompanying Jupyter
 
 ## Project Report
 
-For a comprehensive overview of the objectives, analysis, predictions, and recommendations, please refer to the full Data Analysis Report.
+For a comprehensive overview of the objectives, analysis, predictions, and recommendations, please refer to the full [Project Report](student_depression_project_report.pdf).
 
 ## Key Project Points
 
